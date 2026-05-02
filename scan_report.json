@@ -1,0 +1,67 @@
+{
+    "target_ip": "10.0.2.4",
+    "scan_time": "2026-05-02 17:50:20",
+    "total_open_ports": 12,
+    "results": [
+        {
+            "port": 22,
+            "status": "open",
+            "service_banner": "SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1"
+        },
+        {
+            "port": 514,
+            "status": "open",
+            "service_banner": ""
+        },
+        {
+            "port": 23,
+            "status": "open",
+            "service_banner": "Unknown Service / No Banner"
+        },
+        {
+            "port": 512,
+            "status": "open",
+            "service_banner": "\u0001Where are you?"
+        },
+        {
+            "port": 21,
+            "status": "open",
+            "service_banner": "220 (vsFTPd 2.3.4)"
+        },
+        {
+            "port": 25,
+            "status": "open",
+            "service_banner": "220 metasploitable.localdomain ESMTP Postfix (Ubuntu)"
+        },
+        {
+            "port": 80,
+            "status": "open",
+            "service_banner": "Unknown Service / No Banner"
+        },
+        {
+            "port": 53,
+            "status": "open",
+            "service_banner": "Unknown Service / No Banner"
+        },
+        {
+            "port": 111,
+            "status": "open",
+            "service_banner": "Unknown Service / No Banner"
+        },
+        {
+            "port": 139,
+            "status": "open",
+            "service_banner": "Unknown Service / No Banner"
+        },
+        {
+            "port": 445,
+            "status": "open",
+            "service_banner": "Unknown Service / No Banner"
+        },
+        {
+            "port": 513,
+            "status": "open",
+            "service_banner": "Unknown Service / No Banner"
+        }
+    ]
+}
